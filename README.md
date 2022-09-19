@@ -68,7 +68,7 @@
 
 [![Preview][product-screenshot5]](#)
 
-### Built With
+## Built With
 
 Technologies used in the project.
 
@@ -87,7 +87,7 @@ Technologies used in the project.
 
 <!-- GETTING STARTED -->
 
-### Getting Started
+## Getting Started
 
 1. Clone the repo
 
