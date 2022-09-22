@@ -101,13 +101,19 @@ Technologies used in the project.
   npm install
 ```
 
-3. Run the project
+3. Re-establish the schema.prisma and .env files
+
+```sh
+  npx prisma generate
+```
+
+4. Run the project
 
 ```sh
   npm run dev
 ```
 
-4. Run Prisma Studio
+5. Run Prisma Studio
 
 ```sh
   npx prisma studio
